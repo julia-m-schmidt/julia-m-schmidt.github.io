@@ -6,21 +6,13 @@ permalink: /research/
 
 # Research
 
-## Publications
-- **Paper Title 1**. Journal Name, Year. [DOI link](#)
-  - Summary or abstract of the publication.
-
-- **Paper Title 2**. Journal Name, Year. [DOI link](#)
-  - Summary or abstract of the publication.
-
 
 ## Working Papers
 - **Working Paper Title 1**. [Link to paper or PDF](#)
-  - Summary or abstract of the working paper.
+  - Brief summary or abstract of the working paper.
 
 - **Working Paper Title 2**. [Link to paper or PDF](#)
-  - Summary or abstract of the working paper.
-
+  - Brief summary or abstract of the working paper.
 
 ## Work in Progress
 - **Work in Progress Title 1**
