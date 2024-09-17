@@ -4,6 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-# My Research
+# Research
 
 Details about your research work.
