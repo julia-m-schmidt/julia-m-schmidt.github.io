@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: "Research"
 permalink: /research/
 ---
 
-# Research interest
+# My Research
 
-Here you can detail your research interests, publications, and ongoing projects.
+Details about your research work.
