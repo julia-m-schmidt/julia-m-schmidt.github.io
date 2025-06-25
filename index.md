@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-I am currently a PhD Candidate at Université Paris Dauphine - PSL, supervised by Prof. Lise Patureau. My research interests lie at the intersection of macroeconomics, digital and information economics. I use general equilibrium models, Bayesian estimation and machine learning to better understand how the data economy works. 
+I am currently a PhD Candidate at Université Paris Dauphine - PSL, supervised by Prof. Lise Patureau. My research interests lie at the intersection of macroeconomics and digital economics. I use general equilibrium models, Bayesian estimation and machine learning to better understand how the data economy works. 
 
 Questions that I care about currently are:
 - How can data assets, non-rival experience goods, be modelled in classic economic frameworks? How do they differ from other assets and what is their value?
