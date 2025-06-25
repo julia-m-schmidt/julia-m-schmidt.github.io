@@ -23,6 +23,27 @@ footer {
     border-bottom: none; /* optional */
 }
 
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.header-text {
+    flex: 2;
+}
+
+.header-photo {
+    flex: 1;
+    max-width: 200px;
+}
+
+.header-photo img {
+    width: 100%;
+    border-radius: 8px;
+}
 
 
 .button {
