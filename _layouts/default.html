@@ -5,17 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
     <title>{{ page.title }} - Julia M. Reisach</title>
 </head>
 <body>
-    <header>
-        <h1>Julia M. Reisach</h1>
-        <p>PhD Candidate - Université Paris-Dauphine-PSL</p>
 
-        <!-- Add Profile Picture -->
+    <header>
+        <h1>Julia M. Schmidt</h1>
+        <p>PhD Candidate – Université Paris-Dauphine-PSL</p>
+
+        <!-- Profile Picture -->
         <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Profile Picture" width="200">
 
-        <!-- Add Sections -->
+        <!-- Navigation Menu -->
         <nav>
             <ul>
                 <li><a href="/research/">Research</a></li>
@@ -25,20 +27,22 @@
             </ul>
         </nav>
 
-     <!-- LinkedIn Link -->
-     <div class="social-media">
-        <a href="https://www.linkedin.com/in/julia-m-schmidt-595932107/" target="_blank">
-            <img src="/assets/images/linkedin-logo.jpg" alt="LinkedIn Profile" width="30">
-        </a>
-    </div>
+        <!-- LinkedIn Link -->
+        <div class="social-media">
+            <a href="https://www.linkedin.com/in/julia-m-schmidt-595932107/" target="_blank">
+                <img src="/assets/images/linkedin-logo.jpg" alt="LinkedIn Profile" width="30">
+            </a>
+        </div>
+    </header>
 
-    <main>
+    <!-- Main Content Wrapper -->
+    <main class="container">
         {{ content }}
     </main>
 
-<footer>
-    <p>&copy; 2024 Julia M. Reisach</p>
-</footer>
+    <footer>
+        <p>&copy; 2024 Julia M. Reisach</p>
+    </footer>
+
 </body>
 </html>
-
