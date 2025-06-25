@@ -4,14 +4,35 @@ title: "Home"
 permalink: /
 ---
 
-I am currently a PhD Candidate at Université Paris Dauphine - PSL, supervised by Prof. Lise Patureau. My research interests lie at the intersection of macroeconomics and digital economics. I use general equilibrium models, Bayesian estimation and machine learning to better understand how the data economy works. 
+I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **digital regulation**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy.
 
-Questions that I care about currently are:
-- How can data assets, non-rival experience goods, be modelled in classic economic frameworks? How do they differ from other assets and what is their value?
-- What happens after a technology shock to wage inequality in an economy that relies heavily on data assets?
-- Which patterns of firm productivity and trade behaviour can we observe in a data-intensive economy? 
+My thesis explores three main questions:
 
-Previously, I worked as a Data Scientist/Economist at the Science, Technology and Innovation Directorate as well as the Statstics and Data Directorate of the OECD. 
+---
 
-In my free time, you find me hiking in the mountains or swimming in some sort of water. Explore my research, work experience, teaching, and feel free to reach out if you want to have a chat.
+### 📈 Chapter 1: Finance & AI
 
+**How do financial frictions affect AI and Big Data investment in Europe — and what does this mean for productivity growth?**
+
+Using firm-level survey and balance sheet data (EIBIS and Orbis), I examine the role of intangible capital and constrained investment in slowing down digital adoption. I complement this analysis with a DSGE model featuring financial frictions and non-collateralizable data assets.
+
+---
+
+### 🌍 Chapter 2: Compute & Climate
+
+**What are the environmental costs of AI — and how should climate policy account for emissions from compute infrastructure?**
+
+I build a multi-sector DSGE model linking monopolistic data centers and downstream digital firms. The model captures emissions from compute, unpriced data provision, and regulatory distortions — simulating trade-offs between carbon taxes, data policy, and AI-driven productivity.
+
+---
+
+### 🧠 Chapter 3: AI & Labor
+
+**How do large language models and AI adoption reshape skill demand and wage inequality?**
+
+I use matched job posting and firm data to analyze how shifts in AI architecture and data access affect labor market outcomes. This work integrates natural language processing and macro modeling to trace the distributional consequences of generative AI and regulatory change.
+
+---
+
+Outside of research, I enjoy trail running, swimming, and working on digital tools for economists. You can explore my [research](/research/), [code](/code/), or [CV](/cv/).  
+Feel free to reach out if you’d like to connect or collaborate.
