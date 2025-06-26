@@ -99,6 +99,17 @@ header {
     padding: 0 1em;
 }
 
+.home-intro {
+    background-color: #fafafa;
+    padding: 25px 30px;
+    border-left: 4px solid #007BFF;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    font-size: 1.05em;
+    line-height: 1.8;
+}
+
 h1, h2 {
     color: #333;
     margin-bottom: 20px;
