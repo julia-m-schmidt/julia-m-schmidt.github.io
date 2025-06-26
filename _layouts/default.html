@@ -19,16 +19,16 @@
   <header>
     <div class="container" style="display: flex; flex-direction: column; align-items: center; padding: 2em 0;">
 
-      <!-- Profile Row: image left, info right -->
-      <div style="display: flex; align-items: center; gap: 2em; flex-wrap: nowrap;">
+      <!-- Profile Section -->
+      <div style="display: flex; align-items: center; gap: 2em; flex-wrap: wrap; justify-content: center;">
         <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Julia M. Schmidt"
-             style="width: 130px; height: 130px; object-fit: cover; border-radius: 8px;" />
+             style="width: 160px; height: 160px; object-fit: cover; border-radius: 8px;" />
 
         <div style="text-align: left;">
           <h1 style="margin: 0;">Julia M. Schmidt</h1>
           <p style="margin: 0.3em 0;">PhD Candidate – Université Paris-Dauphine–PSL</p>
 
-          <!-- Icons -->
+          <!-- Social Icons -->
           <div style="margin-top: 0.5em;">
             <a href="https://scholar.google.com/YOUR_ID" target="_blank" aria-label="Google Scholar">
               <img src="/assets/images/gscholar.jpg" alt="Google Scholar"
@@ -42,7 +42,7 @@
         </div>
       </div>
 
-      <!-- Nav links centered below -->
+      <!-- Navigation -->
       <nav class="navbar" style="margin-top: 2em;">
         <a href="/assets/docs/CV_SCHMIDT_J.pdf" target="_blank">CV</a>
         <a href="/research/">Research</a>
@@ -51,7 +51,7 @@
     </div>
   </header>
 
-  <!-- Main -->
+  <!-- Main content -->
   <main class="container">
     {{ content }}
   </main>
