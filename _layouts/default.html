@@ -7,8 +7,29 @@
   <link rel="stylesheet" href="/assets/css/style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
   <title>{{ page.title }} - Julia M. Schmidt</title>
-  <!-- Optional favicon -->
-  <!-- <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon" /> -->
+
+  <style>
+    /* TEMP FIX UNTIL CSS FILE IS UPDATED */
+    .social-icons {
+      display: flex;
+      gap: 12px;
+      margin: 0.5em 0 0.8em 0;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .social-icons img {
+      width: 28px !important;
+      height: 28px !important;
+      object-fit: contain;
+      transition: transform 0.2s ease-in-out;
+      display: block;
+    }
+
+    .social-icons img:hover {
+      transform: scale(1.1);
+    }
+  </style>
 </head>
 <body>
 
@@ -20,7 +41,6 @@
   <!-- Header -->
   <header>
     <div class="container profile-header">
-
       <div class="profile-info">
         <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Julia M. Schmidt" class="profile-photo" />
 
@@ -29,11 +49,11 @@
           <p>PhD Candidate – Université Paris-Dauphine–PSL</p>
 
           <div class="social-icons">
-            <a href="https://scholar.google.com/citations?hl=fr&user=TWB0Z5IAAAAJ&scilu=&scisig=AC8hv-oAAAAAaAnon2iYEK4knZD03QErXmD79t0&gmla=ANZ5fUPCcmsN9PvZNEfqUFb9sefEnaQdQvVeKJYHUbd4iswhbapl8m5FAthOpMDxuPY-SRfhn7aUX8mXVmaUPMITpKBDzCKjTjH2D5GaaRZg40Ih5F6Be090nVF-26-n&sciund=12472428818883443476" target="_blank" aria-label="Google Scholar">
-              <img src="/assets/images/gscholar.png" alt="Google Scholar" class="icon" />
+            <a href="https://scholar.google.com/citations?hl=fr&user=TWB0Z5IAAAAJ" target="_blank" aria-label="Google Scholar">
+              <img src="/assets/images/gscholar.png" alt="Google Scholar" />
             </a>
             <a href="https://www.linkedin.com/in/julia-m-schmidt-595932107/" target="_blank" aria-label="LinkedIn">
-              <img src="/assets/images/linkedin.png" alt="LinkedIn" class="icon" />
+              <img src="/assets/images/linkedin.png" alt="LinkedIn" />
             </a>
           </div>
 
@@ -49,13 +69,13 @@
   </header>
 
   <!-- Main content -->
-  <main class="container main-content" role="main">
+  <main class="container main-content">
     {{ content }}
   </main>
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 Julia M. Schmidt</p>
+    <p>&copy; 2024 Julia M. Schmidt</p>
   </footer>
 
 </body>
