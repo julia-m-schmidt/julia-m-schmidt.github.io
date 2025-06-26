@@ -40,5 +40,4 @@ I build a multi-sector DSGE model linking monopolistic data centers and downstre
 
 I use matched job posting and firm data to analyze how shifts in AI architecture and data access affect labor market outcomes. This work integrates natural language processing and macro modeling to trace the distributional consequences of generative AI and regulatory change.
 
----
 
