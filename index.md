@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **digital regulation**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy.
+I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **digital regulation**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy. I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
 
 My thesis explores three main questions:
 
@@ -26,7 +26,7 @@ I build a multi-sector DSGE model linking monopolistic data centers and downstre
 
 ---
 
-### 🧠 Chapter 3: AI & Labor
+### 🧠 Chapter 3: AI/Data & Labor
 
 **How do large language models and AI adoption reshape skill demand and wage inequality?**
 
