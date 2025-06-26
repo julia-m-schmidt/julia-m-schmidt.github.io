@@ -15,11 +15,11 @@ body {
 /* === HEADER === */
 header {
     border-bottom: 1px solid #ddd;
-    padding: 25px 0 30px 0;  /* slightly taller */
+    padding: 30px 0; /* generous top-bottom space */
     background-color: #fff;
 }
 
-/* Profile block */
+/* === PROFILE BLOCK === */
 .profile-header {
     display: flex;
     flex-direction: column;
@@ -60,18 +60,7 @@ header {
     color: #555;
 }
 
-/* Social icons */
-.social-icons {
-    margin-bottom: 0.6em;
-}
-
-.social-icons .icon {
-    height: 30px;
-    vertical-align: middle;
-    margin-right: 10px;
-}
-
-/* Navbar */
+/* === NAVIGATION === */
 .navbar {
     display: flex;
     justify-content: flex-start;
@@ -90,32 +79,7 @@ header {
     text-decoration: underline;
 }
 
-/* === MAIN CONTENT === */
-.main-content {
-    margin-top: 1em;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 1em;
-}
-
-/* Justify all Markdown paragraphs */
-.main-content p {
-    text-align: justify;
-    margin-bottom: 20px;
-}
-
-/* Markdown lists and headings */
-h1, h2 {
-    color: #333;
-    margin-bottom: 20px;
-}
-
-ul {
-    margin-left: 20px;
-    list-style-type: disc;
-}
-
+/* === LINKS === */
 a {
     color: #007BFF;
     text-decoration: none;
@@ -125,8 +89,39 @@ a:hover {
     text-decoration: underline;
 }
 
-section {
-    margin-bottom: 40px;
+/* === MAIN CONTENT === */
+.main-content {
+    margin-top: 2em;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1.2em;
+}
+
+.main-content p {
+    text-align: justify;        /* 👈 Fully justified paragraph text */
+    margin-bottom: 1.2em;
+    line-height: 1.8;
+    font-size: 1.05em;
+}
+
+.main-content a {
+    word-break: break-word;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+    text-align: left;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    color: #333;
+}
+
+.main-content hr {
+    margin: 2.5em 0;
+    border: none;
+    border-top: 1px solid #ccc;
 }
 
 /* === FOOTER === */
@@ -136,21 +131,6 @@ footer {
     padding: 20px;
     font-size: 0.9em;
     color: #666;
-}
-
-/* === BUTTONS === */
-.button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007BFF;
-    color: white;
-    border-radius: 4px;
-    transition: background-color 0.3s;
-    text-align: center;
-}
-
-.button:hover {
-    background-color: #0056b3;
 }
 
 /* === BANNER === */
@@ -168,11 +148,6 @@ footer {
 @media (max-width: 600px) {
     .container {
         padding: 20px 15px;
-    }
-
-    .button {
-        padding: 8px 16px;
-        font-size: 0.95em;
     }
 
     .profile-info {
