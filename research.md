@@ -1,7 +1,9 @@
 ---
 title: Research
 layout: default
+permalink: /research/
 ---
+
 
 ## 🧪 Work in Progress
 
