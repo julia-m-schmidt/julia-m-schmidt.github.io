@@ -9,13 +9,13 @@ body {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    padding: 40px 20px;
+    padding: 30px 20px; /* slightly less than before */
 }
 
 /* === HEADER === */
 header {
     border-bottom: 1px solid #ddd;
-    padding-bottom: 20px;
+    padding-bottom: 10px; /* reduced padding */
     background-color: #fff;
 }
 
@@ -24,7 +24,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2em 1em 1em 1em;
+    padding: 1.4em 1em 0.8em 1em; /* less height */
 }
 
 .profile-info {
@@ -42,11 +42,15 @@ header {
     height: 160px;
     object-fit: cover;
     border-radius: 4px;
+    margin-top: 8px; /* nudges photo down to align with text */
 }
 
 .profile-text {
     flex: 1;
     min-width: 260px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .profile-text h1 {
@@ -55,14 +59,14 @@ header {
 }
 
 .profile-text p {
-    margin: 0.3em 0 0.8em 0;
+    margin: 0.3em 0 0.6em 0;
     font-size: 1em;
     color: #555;
 }
 
 /* Social Icons */
 .social-icons {
-    margin-bottom: 0.6em;
+    margin-bottom: 0.4em;
 }
 
 .social-icons .icon {
@@ -76,7 +80,7 @@ header {
     display: flex;
     justify-content: flex-start;
     gap: 30px;
-    margin-top: 6px;
+    margin-top: 4px;
     flex-wrap: wrap;
 }
 
@@ -92,7 +96,7 @@ header {
 
 /* === MAIN CONTENT === */
 .main-content {
-    margin-top: 0.5em;
+    margin-top: 0.2em; /* reduced spacing under header */
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
@@ -100,12 +104,9 @@ header {
 }
 
 .home-intro {
-    background-color: #fafafa;
-    padding: 25px 30px;
-    border-left: 4px solid #007BFF;
-    margin-top: 10px;
+    padding: 0 0 0 0.4em; /* subtle indentation */
+    border-left: 3px solid #ccc;
     margin-bottom: 30px;
-    border-radius: 6px;
     font-size: 1.05em;
     line-height: 1.8;
 }
@@ -165,11 +166,11 @@ footer {
 .banner-image img {
     width: 100%;
     height: auto;
-    max-height: 180px;
+    max-height: 160px; /* slimmer banner */
     object-fit: cover;
     display: block;
     border-radius: 0 0 8px 8px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 /* === RESPONSIVE === */
