@@ -60,6 +60,63 @@ footer {
 }
 
 
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 40px;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex: 1;
+  min-width: 250px;
+}
+
+.header-left img {
+  width: 100px;
+  border-radius: 8px;
+}
+
+.header-name {
+  font-size: 1.8em;
+  font-weight: 600;
+  margin: 0;
+}
+
+.header-title {
+  margin: 0;
+  font-size: 1em;
+  color: #555;
+}
+
+.header-center {
+  flex: 2;
+  min-width: 300px;
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
 
 h1, h2 {
     color: #333;
