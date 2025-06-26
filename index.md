@@ -4,7 +4,8 @@ title: "Home"
 permalink: /
 ---
 
-I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **digital regulation**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy. I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
+I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **digital regulation**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy. I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0). Outside of research, you find me swimming in some sort of water ([regularly](https://www.leparisien.fr/paris-75/paris-75015/paris-la-piscine-keller-quinquagenaire-et-toujours-dans-le-bain-13-03-2017-6758721.php) and [on vacation] (https://www.schloesser.bayern.de/deutsch/seen/objekte/ammersee.htm), hiking in mountains close to the beautiful [Kloster Andechs in the Bavarian Alps] (https://www.andechs.de/), or cooking my favourite [Thai green curry](https://hot-thai-kitchen.com/green-curry-new-2/).  
+Feel free to reach out if you’d like to connect or collaborate.
 
 My thesis explores three main questions:
 
@@ -34,5 +35,3 @@ I use matched job posting and firm data to analyze how shifts in AI architecture
 
 ---
 
-Outside of research, I enjoy trail running, swimming, and working on digital tools for economists. You can explore my [research](/research/), [code](/code/), or [CV](/cv/).  
-Feel free to reach out if you’d like to connect or collaborate.
