@@ -7,7 +7,7 @@ permalink: /
 
 I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **digital regulation**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy. I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
 
-Before starting my PhD I was an Economist/Data Scientist at the OECD Science, Technology and Innovation Directorate and at the Statistics and Data Directorate. I have work and research experience in India, Singapore, Thailand and Germany.
+Before starting my PhD I was an Economist/Data Scientist at the [OECD] (https://www.oecd.org/en.html) Science, Technology and Innovation Directorate and at the Statistics and Data Directorate. I have work and research experience in India, Singapore, Thailand and Germany.
 
 Outside of research, you find me swimming in some sort of water ([regularly](https://www.leparisien.fr/paris-75/paris-75015/paris-la-piscine-keller-quinquagenaire-et-toujours-dans-le-bain-13-03-2017-6758721.php) and [on vacation](https://www.schloesser.bayern.de/deutsch/seen/objekte/ammersee.htm)), hiking in mountains close to the beautiful [Kloster Andechs in the Bavarian Alps](https://www.andechs.de/), or cooking my favourite [Thai green curry](https://hot-thai-kitchen.com/green-curry-new-2/). Feel free to reach out if you’d like to connect or collaborate.
 
@@ -15,8 +15,6 @@ Outside of research, you find me swimming in some sort of water ([regularly](htt
 ---
 
 My thesis explores three main questions:
-
-
 
 ---
 
@@ -32,7 +30,7 @@ Using firm-level survey and balance sheet data (EIBIS and Orbis), I examine the 
 
 **What are the environmental costs of AI — and how should climate policy account for emissions from compute infrastructure?**
 
-I build a multi-sector DSGE model linking monopolistic data centers and downstream digital firms. The model captures emissions from compute, unpriced data provision, and regulatory distortions — simulating trade-offs between carbon taxes, data policy, and AI-driven productivity.
+I build a multi-sector DSGE model linking monopolistic data centers and downstream digital firms. The model captures emissions from compute, unpriced data provision, and regulatory distortions simulating trade-offs between carbon taxes, data policy, and AI-driven productivity.
 
 ---
 
