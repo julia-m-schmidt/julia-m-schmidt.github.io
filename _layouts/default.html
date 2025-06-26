@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="/assets/css/style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
-  <title>{{ page.title }} - Julia M. Reisach</title>
+  <title>{{ page.title }} - Julia M. Schmidt</title>
 </head>
 <body>
 
@@ -17,17 +17,39 @@
 
   <!-- Header with profile and navigation -->
   <header>
-    <div class="container header-flex">
-      <div class="header-left">
-        <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Julia M. Schmidt" />
-        <div>
-          <h1 class="header-name">Julia M. Schmidt</h1>
-          <p class="header-title">PhD Candidate – Université Paris-Dauphine–PSL</p>
-        </div>
+    <div class="container header-flex" style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1em 0;">
+      <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Julia M. Schmidt" style="width: 100px; border-radius: 8px; margin-bottom: 0.5em;" />
+      <h1 class="header-name" style="margin: 0;">Julia M. Schmidt</h1>
+      <p class="header-title" style="margin: 0.2em 0 0.8em;">PhD Candidate – Université Paris-Dauphine–PSL</p>
+
+      <!-- Social links -->
+      <div class="social-icons" style="margin-bottom: 1em;">
+        <a href="https://scholar.google.com/citations?user=TWB0Z5IAAAAJ&hl=fr" target="_blank" aria-label="Google Scholar">
+          <img src="/assets/images/gscholar.jpg" alt="Google Scholar" style="width: 24px; height: 24px; margin-right: 10px;" />
+        </a>
+        <a href="https://www.linkedin.com/in/julia-m-schmidt-595932107/" target="_blank" aria-label="LinkedIn">
+          <img src="/assets/images/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;" />
+        </a>
       </div>
 
-      <div class="header-center">
-        <nav class="navbar">
-          <a href="/assets/docs/CV_SCHMIDT_J.pdf" target="_blank">CV</a>
-          <a href="/research/">Research</a>
-          <a href="/teaching/
+      <!-- Navigation bar -->
+      <nav class="navbar">
+        <a href="/assets/docs/CV_SCHMIDT_J.pdf" target="_blank">CV</a>
+        <a href="/research/">Research</a>
+        <a href="/teaching/">Teaching</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 Julia M. Schmidt</p>
+  </footer>
+
+</body>
+</html>
