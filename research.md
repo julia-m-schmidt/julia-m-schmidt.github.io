@@ -9,10 +9,14 @@ permalink: /research/
 
 ### **The Missing Productivity Edge – Access to Finance and Europe’s AI Challenge**  
 *Coauthored with Lise Patureau and Fabien Tripier*  
+
 This paper examines whether financial frictions limit firms’ ability to invest in and adopt AI and Big Data technologies, contributing to Europe’s productivity gap. Using matched firm-level data from Orbis and the EIBIS survey, we assess how finance constraints affect intangible investment in AI and data. We then build a macro model with financial frictions (à la Kiyotaki and Moore, 1997), featuring two capital types—tangible (collateralizable) and intangible (non-collateralizable)—and introduce a novel channel through which data, as a specific intangible asset, shapes productivity growth.
+
+
 
 ### **Invisible Emissions in the Data Economy - Tech regulation vs. Carbon Tax**  
 *by Julia M. Schmidt*  
+
 This paper studies how climate constraints interact with the data economy, where compute-intensive AI services raise productivity but concentrate emissions upstream. We build a multi-sector general equilibrium model in which one sector produces AI services using data and compute, while the other produces a traditional good. Inspired by Jones and Tonetti (2020) and Farboodi and Veldkamp (2021), we model data as a productivity-enhancing input and add an emissions externality tied to compute. We evaluate policy instruments such as carbon taxes and tech regulation, highlighting how tech regulation may increase competition but increase emissions thus highlighting an important climate-growth trade-off. Stylized facts on a decoupling of emissions between AI providers and adopters, as well as shocks to competition will complement the theoretical framework.
 
 ---
