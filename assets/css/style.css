@@ -144,6 +144,27 @@ footer {
     margin-bottom: 10px;
 }
 
+/* === SOCIAL ICONS (Google Scholar, LinkedIn, etc.) === */
+.social-icons {
+    display: flex;
+    gap: 12px;
+    margin: 0.5em 0 0.8em 0;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.social-icons img {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    transition: transform 0.2s ease-in-out;
+}
+
+.social-icons img:hover {
+    transform: scale(1.1);
+}
+
+
 /* === RESPONSIVE === */
 @media (max-width: 600px) {
     .container {
