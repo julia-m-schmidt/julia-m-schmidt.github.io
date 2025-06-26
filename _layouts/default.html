@@ -1,46 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-    <title>{{ page.title }} - Julia M. Reisach</title>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/assets/css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <title>{{ page.title }} - Julia M. Reisach</title>
 </head>
 <body>
 
-<header class="header-wrapper">
-  <div class="header-left">
-    <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Julia M. Schmidt">
-    <div>
-      <h1 class="header-name">Julia M. Schmidt</h1>
-      <p class="header-title">PhD Candidate – Université Paris-Dauphine–PSL</p>
+  <!-- Banner image at the top -->
+  <div class="banner-image">
+    <img src="/assets/images/header.png" alt="Abstract banner image" />
+  </div>
+
+  <!-- Header with profile and navigation -->
+  <header class="header-wrapper">
+    <div class="header-left">
+      <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Julia M. Schmidt" />
+      <div>
+        <h1 class="header-name">Julia M. Schmidt</h1>
+        <p class="header-title">PhD Candidate – Université Paris-Dauphine–PSL</p>
+      </div>
     </div>
-  </div>
 
-  <div class="header-center">
-    <nav class="navbar">
-      <a href="/cv/">CV</a>
-      <a href="/research/">Research</a>
-      <a href="/experience/">Teaching</a>
-    </nav>
-  </div>
+    <div class="header-center">
+      <nav class="navbar">
+        <a href="/cv/">CV</a>
+        <a href="/research/">Research</a>
+        <a href="/experience/">Teaching</a>
+      </nav>
+    </div>
+  </header>
 
-<div class="banner-image">
-  <img src="/assets/images/header.png" alt="Banner image">
-</div>
+  <!-- Main content -->
+  <main class="container">
+    {{ content }}
+  </main>
 
-</header>
-
-    <!-- Main Content Wrapper -->
-    <main class="container">
-        {{ content }}
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Julia M. Reisach</p>
-    </footer>
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 Julia M. Reisach</p>
+  </footer>
 
 </body>
 </html>
