@@ -15,7 +15,6 @@ This paper examines whether financial frictions limit firms’ ability to invest
 
 
 ### **Invisible Emissions in the Data Economy - Tech regulation vs. Carbon Tax**  
-*by Julia M. Schmidt*  
 
 This paper studies how climate constraints interact with the data economy, where compute-intensive AI services raise productivity but concentrate emissions upstream. We build a multi-sector general equilibrium model in which one sector produces AI services using data and compute, while the other produces a traditional good. Inspired by Jones and Tonetti (2020) and Farboodi and Veldkamp (2021), we model data as a productivity-enhancing input and add an emissions externality tied to compute. We evaluate policy instruments such as carbon taxes and tech regulation, highlighting how tech regulation may increase competition but increase emissions thus highlighting an important climate-growth trade-off. Stylized facts on a decoupling of emissions between AI providers and adopters, as well as shocks to competition will complement the theoretical framework.
 
