@@ -10,7 +10,7 @@ permalink: /research/
 ### **The Missing Productivity Edge – Access to Finance and Europe’s AI Challenge**  
 *Coauthored with Lise Patureau and Fabien Tripier*  
 
-This paper examines whether financial frictions limit firms’ ability to invest in and adopt AI and Big Data technologies, contributing to Europe’s productivity gap. Using matched firm-level data from Orbis and the EIBIS survey, we assess how finance constraints affect intangible investment in AI and data. We then build a macro model with financial frictions (à la Kiyotaki and Moore, 1997), featuring two capital types—tangible (collateralizable) and intangible (non-collateralizable)—and introduce a novel channel through which data, as a specific intangible asset, shapes productivity growth.
+This paper examines whether financial frictions limit firms’ ability to invest in and adopt AI and Big Data technologies, contributing to Europe’s productivity gap. Using matched firm-level data from Orbis and the EIBIS survey, we assess how finance constraints affect intangible investment in AI and data. We then build a macro model with financial frictions (à la Kiyotaki and Moore, 1997), featuring two capital types, tangible (collateralizable) and intangible (non-collateralizable), and introduce a novel channel through which data, as a specific intangible asset, shapes productivity growth.
 
 
 
