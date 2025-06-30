@@ -4,11 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
----
-layout: default
-title: Talks and Conferences
-permalink: /talks/
----
 
 # Talks and Conferences
 
