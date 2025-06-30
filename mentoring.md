@@ -11,6 +11,12 @@ I am passionate about supporting learners and professionals at different stages 
 
 ---
 
+### 🏛️ German National Academic Foundation 
+
+I am an almuna of the German National Academic Foundation and regularly participate in its selection committees. If you have been an intern/consultant of mine or a student in one of my courses, I am happy to discuss proposing you for a scholarship. I am generally happy to provide information about student and doctoral fellowships.
+
+---
+
 ### 🌱 [Environmental Education for German Students (Weltfairsteher)](https://www.weltfairsteher.de)
 
 As Strategy Manager and co-lead of the initiative, I worked with a team of 10 volunteers supported by funding from the German Federal Ministry for Economic Cooperation and Development (BMZ). Together, we secured €20,000 per year and raised a total of €80,000. We reached over 8,000 students across Germany, integrating the Sustainable Development Goals into school curricula. Additionally, we delivered certified teacher trainings nationwide to equip educators with tools for sustainability education.
