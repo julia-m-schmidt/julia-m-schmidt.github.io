@@ -23,7 +23,7 @@ permalink: /talks/
 
 - **Leveraging Natural Language Processing (NLP) to Answer Economic Questions**  
   [Banque de France & OECD Innovation Lab Virtual Conference](https://www.banque-france.fr/en/events/leveraging-natural-language-processing-nlp-answer-economic-questions) – Online – 13 June 2024  
-  A virtual event on using big‑data and large-scale NLP methods in economic research and forecasting :contentReference[oaicite:0]{index=0}
+  A virtual event on using big‑data and large-scale NLP methods in economic research and forecasting.
 
 - **Navigating AI Futures: A Comparative Look at Emerging International Rules**  
   Roundtable discussion on global AI governance frameworks  
