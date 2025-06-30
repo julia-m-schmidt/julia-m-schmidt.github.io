@@ -11,7 +11,7 @@ I am passionate about supporting learners and professionals at different stages 
 
 ---
 
-### 🏛️ German National Academic Foundation 
+### 🏛️ [German National Academic Foundation](https://www.studienstiftung.de/) 
 
 I am an almuna of the German National Academic Foundation and regularly participate in its selection committees. If you have been an intern/consultant of mine or a student in one of my courses, I am happy to discuss proposing you for a scholarship. I am generally happy to provide information about student and doctoral fellowships.
 
