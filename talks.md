@@ -36,7 +36,7 @@ permalink: /talks/
   [University of Cambridge]([https://www.jbs.cam.ac.uk/faculty-research/centres/digital-innovation/digital-economics-workshop/](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2023/11/UK-DigEcon-2023-Agenda-Programme.pdf)) – Cambridge, UK – November 2023
 
 - **OECD-KOSTAT Conference on Novel Data for Economic Resilience**  
-  [OECD Conference Site]([https://www.oecd.org/wise/events/oecd-kostat-conference-on-novel-data.htm](https://kostat.go.kr/gallery.es?mid=a20403040000&bid=11790&tag=&act=view&list_no=424201&ref_bid=)) – September 2023
+  [KOSTAT Conference Site in Seoul, South Korea]([https://www.oecd.org/wise/events/oecd-kostat-conference-on-novel-data.htm](https://kostat.go.kr/gallery.es?mid=a20403040000&bid=11790&tag=&act=view&list_no=424201&ref_bid=)) – September 2023
 
 - **ESCOE Conference on Economic Measurement**  
   [ESCOE 2023 Conference](https://www.escoe.ac.uk/events/escoe-conference-on-economic-measurement-2023/) – May 2023
