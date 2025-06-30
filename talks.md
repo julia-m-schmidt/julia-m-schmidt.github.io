@@ -4,7 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
-
 # Talks and Conferences
 
 
