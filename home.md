@@ -9,5 +9,7 @@ I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https:
 
 Before starting my PhD I was an Economist/Data Scientist at the [OECD](https://www.oecd.org/en.html) Science, Technology and Innovation Directorate and at the Statistics and Data Directorate. There I applied NLP to measure digital skills and machine learning tools to nowcast trade and productivity indicators.
 
-Outside of research and policy work, you find me swimming in some sort of water ([regularly](https://www.leparisien.fr/paris-75/paris-75015/paris-la-piscine-keller-quinquagenaire-et-toujours-dans-le-bain-13-03-2017-6758721.php) and [on vacation](https://www.schloesser.bayern.de/deutsch/seen/objekte/ammersee.htm)), hiking in mountains close to the beautiful [Kloster Andechs in the Bavarian Alps](https://www.andechs.de/), or cooking my favourite [Thai green curry](https://hot-thai-kitchen.com/green-curry-new-2/). Feel free to [reach out](mailto:julia.schmidt@dauphine.psl.eu?subject=Collaboration%20Request) if you’d like to connect or collaborate.
+Outside of research and policy work, you find me swimming in some sort of water ([regularly](https://www.leparisien.fr/paris-75/paris-75015/paris-la-piscine-keller-quinquagenaire-et-toujours-dans-le-bain-13-03-2017-6758721.php) and [on vacation](https://www.schloesser.bayern.de/deutsch/seen/objekte/ammersee.htm)), hiking in mountains close to the beautiful [Kloster Andechs in the Bavarian Alps](https://www.andechs.de/), or cooking my favourite [Thai green curry](https://hot-thai-kitchen.com/green-curry-new-2/). 
+
+Feel free to [reach out](mailto:julia.schmidt@dauphine.psl.eu?subject=Collaboration%20Request) if you’d like to connect or collaborate.
 
