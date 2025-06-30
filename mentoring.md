@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mentoring
+permalink: /mentoring/
+---
+
+
 ## 🎓 Mentoring & Learning Programs
 
 I am passionate about supporting learners and professionals at different stages of their journey. Below are the current and past mentoring initiatives:
