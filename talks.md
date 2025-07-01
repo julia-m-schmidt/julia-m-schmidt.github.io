@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-# Talks and Conferences
+# 🎤 Talks and Conferences
 
 
 ## 2025
