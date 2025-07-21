@@ -40,7 +40,6 @@ As Strategy Manager and co-lead of the initiative, I worked with a team of 10 vo
 
 During my time at the OECD, I organised two internal mentoring programs spanning six months each, matching experienced coders with beginners to foster peer learning and reverse traditional hierarchies. I also led the design and delivery of collaborative events—including a Hackathon and a Statistics Day, to build community and showcase innovative data work. In addition, I briefed the Secretary-General and the Chief Statistician on the organisation’s infrastructure and big data needs, contributing to strategic discussions about future capabilities.
 
----
 
 
 
