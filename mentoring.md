@@ -9,6 +9,17 @@ permalink: /mentoring/
 
 I am passionate about supporting learners and professionals at different stages of their journey. Below are the current and past mentoring initiatives:
 
+
+### 🌟 Leadership Circle *(Coming Soon)*
+
+A leadership circle that turns early‑career talent from non-elite backgrounds into adventurous, empathetic leaders, through immersive soft‑skill sprints, 1‑to‑1 coaching, and a pan European network built for non‑linear careers. The Leadership Circle will help participants:
+
+- Discover hidden-curriculum skills (leadership, negotiation, recognizing biases)
+- Build confidence in navigating complex work environments
+- Connect with a supportive, cross-disciplinary network
+
+**Stay tuned for more details.**
+
 ---
 
 ### 🏛️ [German National Academic Foundation](https://www.studienstiftung.de/) 
@@ -29,15 +40,5 @@ During my time at the OECD, I organised two internal mentoring programs spanning
 
 ---
 
-### 🌟 Leadership Circle *(Coming Soon)*
 
-A new program targeted at young professionals with non-linear career paths. The Leadership Circle will help participants:
-
-- Discover hidden-curriculum skills (leadership, negotiation, recognizing biases)
-- Build confidence in navigating complex work environments
-- Connect with a supportive, cross-disciplinary network
-
-**Stay tuned for more details.**
-
----
 
