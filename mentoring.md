@@ -12,7 +12,9 @@ I am passionate about supporting learners and professionals at different stages 
 
 ### 🌟 Leadership Circle *(Coming Soon)*
 
-A leadership circle that turns early‑career talent from non-elite backgrounds into adventurous, empathetic leaders, through immersive soft‑skill sprints, 1‑to‑1 coaching, and a pan European network built for non‑linear careers. The Leadership Circle will help participants:
+A leadership circle that turns early‑career talent from non-elite backgrounds into adventurous, empathetic leaders, through immersive soft‑skill sprints, 1‑to‑1 coaching, and a pan European network built for non‑linear careers. 
+
+The Leadership Circle will help participants:
 
 - Discover hidden-curriculum skills (leadership, negotiation, recognizing biases)
 - Build confidence in navigating complex work environments
