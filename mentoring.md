@@ -30,7 +30,7 @@ I am an almuna of the German National Academic Foundation and regularly particip
 
 ---
 
-### 🌱 [Environmental Education for German Students (Weltfairsteher)](https://www.weltfairsteher.de) (2015-2024)
+### 🌱 Environmental Education for German Students [(Weltfairsteher)](https://weltfairsteher.de/) (2015-2024)
 
 As Strategy Manager and co-lead of the initiative, I worked with a team of 10 volunteers supported by funding from the German Federal Ministry for Economic Cooperation and Development (BMZ). Together, we secured €20,000 per year and raised a total of €80,000. We reached over 8,000 students across Germany, integrating the Sustainable Development Goals into school curricula. Additionally, we delivered certified teacher trainings nationwide to equip educators with tools for sustainability education.
 
