@@ -9,6 +9,12 @@ permalink: /talks/
 
 ## 2025
 
+- **The Carbon Cost of Compute - AI, Data Externalities and Climate Policy**  
+  UPF-CREI Macroeconomic Lunch - UPF Barcelona - PhD invited by Prof. Isaac Baley - In person – 26 November 2025
+
+- **The Missing Productivity Edge – Access to Finance and Europe’s AI Challenge**  
+  Paris Dauphine - PSL - PhD Seminar - In person – 25 September 2025  
+
 - **Discussant: Exploring Firm-Level Productivity through Administrative Microdata**  
   [ESCoE Economic Measurement Webinar](https://www.youtube.com/watch?v=rUXlA5NY5SQ) – Online – 30 January 2025  
   Discussant for presentations by Rosie Oxbbury and Liz Gallagher
