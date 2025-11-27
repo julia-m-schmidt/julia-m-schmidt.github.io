@@ -11,6 +11,7 @@ permalink: /talks/
 
 - **The Carbon Cost of Compute - AI, Data Externalities and Climate Policy**  
   UPF-CREI Macroeconomic Lunch - UPF Barcelona - PhD invited by Prof. Isaac Baley - In person – 26 November 2025
+  [BSE-UPF Event Calendar](https://crei.cat/seminars/macroeconomics-breakfast/)
 
 - **The Missing Productivity Edge – Access to Finance and Europe’s AI Challenge**  
   Paris Dauphine - PSL - PhD Seminar - In person – 25 September 2025  
