@@ -7,17 +7,28 @@ permalink: /research/
 
 ## 🧪 Work in Progress
 
-### **The Missing Productivity Edge – Access to Finance and Europe’s AI Challenge**  
-*Coauthored with Lise Patureau and Fabien Tripier*  
+### **Chips and Credit in Europe – AI Investment under Financial Frictions**  
+*Coauthored with  Marine Charlotte André, Julie Delanote, Lise Patureau and Fabien Tripier*  
 
-This paper examines whether financial frictions limit firms’ ability to invest in and adopt AI and Big Data technologies, contributing to Europe’s productivity gap. Using matched firm-level data from Orbis and the EIBIS survey, we assess how finance constraints affect intangible investment in AI and data. We then build a macro model with financial frictions (à la Kiyotaki and Moore, 1997), featuring two capital types, tangible (collateralizable) and intangible (non-collateralizable), and introduce a novel channel through which data, as a specific intangible asset, shapes productivity growth.
+This paper empirically quantifies how financial frictions shape firms’ investment in Artificial Intelli-
+gence (AI) and the associated productivity gains. We use an original firm-level dataset, that combines
+balance-sheet information from Orbis with investment and technology-adoption data from the Eu-
+ropean Investment Bank Investment (EIB) Survey, covering firms across 27 EU countries over the
+period 2015–2023. Our empirical analysis proceeds in two steps. First, we estimate the causal effect of
+AI-related investment on firm productivity. The results show that AI-related investment generates eco-
+nomically meaningful and statistically significant productivity gains. Second, we examine how financial
+constraints affect firms’ engagement with AI. Exploiting variation in bank-level non-performing loan
+ratios as an exogenous credit supply shock, we find that tighter external financing conditions strongly
+reduce tangible, collateral-intensive investment, while AI-related investment is comparatively less sen-
+sitive. Instead, financially constrained firms reallocate investment away from tangible assets toward
+AI and other intangibles, relying more heavily on internal liquidity. Our findings highlight that while
+AI investment is productivity-enhancing, financial frictions shape which firms adopt AI and how.
 
 
 
-### **Invisible Emissions in the Data Economy - Tech regulation vs. Carbon Tax**  
+### **The Carbon Cost of Compute - AI, Data Externalities, and Climate Policy**  
 
-This paper studies how climate constraints interact with the data economy, where compute-intensive AI services raise productivity but concentrate emissions upstream. We build a multi-sector general equilibrium model in which one sector produces AI services using data and compute, while the other produces a traditional good. Inspired by Jones and Tonetti (2020) and Farboodi and Veldkamp (2021), we model data as a productivity-enhancing input and add an emissions externality tied to compute. We evaluate policy instruments such as carbon taxes and tech regulation, highlighting how tech regulation may increase competition but increase emissions thus highlighting an important climate-growth trade-off. Stylized facts on a decoupling of emissions between AI providers and adopters, as well as shocks to competition will complement the theoretical framework.
-
+What is the optimal carbon tax in a data-driven economy? We develop a dynamic general- equilibrium model that embeds data-economy features into a macro-environmental framework to study how AI-intensive production alters emissions and welfare. In the model, AI services combine unpriced, non-rival data, generated as a by-product of consumption, with energy-intensive compute supplied under monopolistic competition. These two distortions, together with the carbon externality, shape the economy’s response to climate policy. A calibration to the United States shows that the decen- tralized equilibrium delivers lower welfare than a planner solution because households undervalue the data they generate. The planner tolerates higher pollution to exploit data-driven productivity gains, implying a near-zero Pigouvian tax. In the decentralized economy, a carbon tax reduces emissions but also raises compute costs and slows the diffusion of AI. In a preliminary calibration, we estimate that the welfare-maximizing long-run tax on data centers is on the order of USD 40 per ton of CO2. These results suggest that data–compute complementarity plays an important role in shaping both emission dynamics and the incidence of carbon taxation.
 ---
 
 ## 🧩 Policy Work
