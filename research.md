@@ -29,6 +29,7 @@ AI investment is productivity-enhancing, financial frictions shape which firms a
 ### **The Carbon Cost of Compute - AI, Data Externalities, and Climate Policy**  
 
 What is the optimal carbon tax in a data-driven economy? We develop a dynamic general- equilibrium model that embeds data-economy features into a macro-environmental framework to study how AI-intensive production alters emissions and welfare. In the model, AI services combine unpriced, non-rival data, generated as a by-product of consumption, with energy-intensive compute supplied under monopolistic competition. These two distortions, together with the carbon externality, shape the economy’s response to climate policy. A calibration to the United States shows that the decen- tralized equilibrium delivers lower welfare than a planner solution because households undervalue the data they generate. The planner tolerates higher pollution to exploit data-driven productivity gains, implying a near-zero Pigouvian tax. In the decentralized economy, a carbon tax reduces emissions but also raises compute costs and slows the diffusion of AI. In a preliminary calibration, we estimate that the welfare-maximizing long-run tax on data centers is on the order of USD 40 per ton of CO2. These results suggest that data–compute complementarity plays an important role in shaping both emission dynamics and the incidence of carbon taxation.
+
 ---
 
 ## 🧩 Policy Work
