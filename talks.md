@@ -7,9 +7,10 @@ permalink: /talks/
 # 🎤 Talks and Conferences
 
 ## 2026
-- **Chips and Credit in Europe - AI Investment and Financial Frictions**  
-  Global INTAN-Invest Conference - In person – 7-8 May 2026
+- **Chips and Credit in Europe - AI Investment and Financial Frictions**
+  Global INTAN-Invest Conference – In person – 7–8 May 2026  
   Co-organized by Luiss Business School & the World Intellectual Property Organization (WIPO)
+
 
 ## 2025
 
