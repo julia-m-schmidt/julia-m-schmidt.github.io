@@ -5,9 +5,9 @@ permalink: /
 ---
 
 
-I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **digital regulation**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy using macroeconomic models and computational methods (LLMs, Machine Learning). I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
+I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **the value of data assets**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy using macroeconomic models and computational methods (LLMs, Machine Learning). I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
 
-**Visiting fellow**. Currently, I am a visiting [Prof. Isaac Baley](https://www.isaacbaley.com/) at UPF Barcelona. 
+**Visiting fellow**. From October 2025 to December 2025, I have been a visiting [Prof. Isaac Baley](https://www.isaacbaley.com/) at UPF Barcelona. 
 
 Before starting my PhD, I was an Economist/Data Scientist at the [OECD](https://www.oecd.org/en.html) Science, Technology and Innovation Directorate and at the Statistics and Data Directorate. There I applied NLP to measure digital skills and machine learning tools to nowcast trade and productivity indicators. I also led a team to design and implement the OECD AI Index, including database creation, data collection and strategic analysis. I have experience managing international projects in collaboration with governments, industry partners and NGOs. 
 
