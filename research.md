@@ -17,18 +17,13 @@ ropean Investment Bank Investment (EIB) Survey, covering firms across 27 EU coun
 period 2015–2023. Our empirical analysis proceeds in two steps. First, we estimate the causal effect of
 AI-related investment on firm productivity. The results show that AI-related investment generates eco-
 nomically meaningful and statistically significant productivity gains. Second, we examine how financial
-constraints affect firms’ engagement with AI. Exploiting variation in bank-level non-performing loan
-ratios as an exogenous credit supply shock, we find that tighter external financing conditions strongly
-reduce tangible, collateral-intensive investment, while AI-related investment is comparatively less sen-
-sitive. Instead, financially constrained firms reallocate investment away from tangible assets toward
-AI and other intangibles, relying more heavily on internal liquidity. Our findings highlight that while
-AI investment is productivity-enhancing, financial frictions shape which firms adopt AI and how.
-
+constraints affect firms’ engagement with AI. We find that financially constrained firms appear to reallocate investment away from tangible assets toward
+AI and other intangibles, relying more heavily on internal liquidity. 
 
 
 ### **The Carbon Cost of Compute - AI, Data Externalities, and Climate Policy**  
 
-What is the optimal carbon tax in a data-driven economy? We develop a dynamic general- equilibrium model that embeds data-economy features into a macro-environmental framework to study how AI-intensive production alters emissions and welfare. In the model, AI services combine unpriced, non-rival data, generated as a by-product of consumption, with energy-intensive compute supplied under monopolistic competition. These two distortions, together with the carbon externality, shape the economy’s response to climate policy. A calibration to the United States shows that the decen- tralized equilibrium delivers lower welfare than a planner solution because households undervalue the data they generate. The planner tolerates higher pollution to exploit data-driven productivity gains, implying a near-zero Pigouvian tax. In the decentralized economy, a carbon tax reduces emissions but also raises compute costs and slows the diffusion of AI. In a preliminary calibration, we estimate that the welfare-maximizing long-run tax on data centers is on the order of USD 40 per ton of CO2. These results suggest that data–compute complementarity plays an important role in shaping both emission dynamics and the incidence of carbon taxation.
+What is the optimal carbon tax in a data-driven economy? We develop a dynamic general- equilibrium model that embeds data-economy features into a macro-environmental framework to study how AI-intensive production alters emissions and welfare. In the model, AI services combine unpriced, non-rival data with energy-intensive compute. The productivity response of AI can shape the economy’s response to climate policy. 
 
 ---
 
