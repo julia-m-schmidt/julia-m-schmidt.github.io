@@ -7,10 +7,19 @@ permalink: /talks/
 # 🎤 Talks and Conferences
 
 ## 2026
-- **Chips and Credit in Europe - AI Investment and Financial Frictions**
-  Global INTAN-Invest Conference – In person – 7–8 May 2026  
+- **Chips and Credit in Europe - AI-related Investment and Financial Frictions**
+  EEA 2026 – In person – 17-21 August 2026
+  [EEA-ESEM 2026](https://www.eea-esem-congresses.org/)
+- **AI, Computing Power and the Design of Carbon Policy**
+  WCERE 2026 - World Congress of Environmental and Resource Economists – In person – 29 June - 3rd July 2026  
+  [WCERE 2026](https://wcere2026.org/index.php/programme/)
+- **Chips and Credit in Europe - AI-related Investment and Financial Frictions**
+  24th ZEW Conference on the Economics of Information and Communication Technologies – In person – 25-26 June 2026  
+  [24th ZEW Conference](https://www.zew.de/en/events-and-professional-training/detail/24th-zew-conference-on-the-economics-of-information-and-communication-technologies/4711?cHash=b82b4c9c3e69b066efacf110b083e6a6)
+- **Chips and Credit in Europe - AI-related Investment and Financial Frictions**
+  3rd Global INTAN-Invest Conference – In person – 7–8 May 2026  
   Co-organized by Luiss Business School & the World Intellectual Property Organization (WIPO)
-
+  [Global INTAN-Invest Conference](https://www.wipo.int/meetings/en/2026/intangible-assets-global-economy.html)
 
 ## 2025
 
