@@ -7,15 +7,15 @@ permalink: /research/
 
 ## 🧪 Work in Progress
 
-## **Two Faces of Data: Productivity and Markups in the Digital Economy **
-*Coauthored with Isaac Baley and Alejandro Rábano*
+### **Two Faces of Data: Productivity and Markups in the Digital Economy**
+*Coauthored with [Isaac Baley](https://www.isaacbaley.com/)  and [Alejandro Rábano](https://sites.google.com/view/alejandrorabano/)*
 
 The rise of data-intensive production has coincided with growing dispersion in firm productivity and markups. Yet most frameworks model data and information as affecting either productivity or market power, not both simultaneously. We build a heterogeneous-firm general equilibrium model in which firms invest in two distinct information channels: innovation data, which improves physical productivity through better knowledge of production techniques, and consumer data, which reduces demand elasticity and raises markups through improved product differentiation. Firms differ in their ability to exploit each channel, generating joint heterogeneity in productivity and market power that is endogenously determined in equilibrium. Three types of workers, production, R\&D, and marketing labour, are demanded by firms and supplied by a representative household, so that firm-level data investment decisions aggregate into labour market outcomes. We use this framework to ask: how does heterogeneity in data technologies shape the cross-sectional distribution of productivity and markups? And to what extent are observed differences in firm size driven by specialisation in data use rather than differences in underlying production technology?
 
 
 
 ### **Productivity in Europe - Data-related Investment and Bank Lending Constraints**  
-*Coauthored with  Marine Charlotte André, Julie Delanote, Lise Patureau and Fabien Tripier*  
+*Coauthored with  Marine Charlotte André, Julie Delanote, [Lise Patureau](https://sites.google.com/view/lisepatureau/) and [Fabien Tripier](https://sites.google.com/site/fabientripier/home)*  
 
 This paper empirically quantifies how financial frictions shape firms’ investment in Artificial Intelli-
 gence (AI) and the associated productivity gains. We use an original firm-level dataset, that combines
