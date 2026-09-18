@@ -12,7 +12,7 @@ permalink: /teaching/
 **Fall — L2 – International Macroeconomics: Short and Medium Term (FR)**  
 *Université Paris Dauphine – PSL*
 
-**Spring — L2 – Macroeconomics (FR)**  
+**Spring — L2 – Long-Term Macroeconomics (FR)**  
 *Université Paris Dauphine – PSL*
 
 ## 2025
