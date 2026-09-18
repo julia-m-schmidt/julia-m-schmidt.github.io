@@ -9,11 +9,9 @@ permalink: /talks/
 - **[PhD Presentation Workshop, LEDa, Université Paris Dauphine – PSL](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html) — Paris, France — 30 November 2026**  
   *The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy*
 
-- **[International Workshop on “AI in the Product, Factor and Financial Markets”](https://www.uniurb.it/novita-ed-eventi/6614) — Urbino, Italy — 19 September 2026**  
+- **[International Workshop on “AI in the Product, Factor and Financial Markets”](https://www.uniurb.it/novita-ed-eventi/6614) — Urbino, Italy — 18–19 September 2026**  
+  *Data, Software, and Credit: Bank Lending Constraints and Digital Investment in Europe*  
   *Two Faces of Data: Productivity and Markups in the Digital Age*
-
-- **[International Workshop on “AI in the Product, Factor and Financial Markets”](https://www.uniurb.it/novita-ed-eventi/6614) — Urbino, Italy — 18 September 2026**  
-  *Data, Software, and Credit: Bank Lending Constraints and Digital Investment in Europe*
 
 - **[The Economics of Data](https://www.anmut.co.uk/data-econ-event/) — Cambridge, UK — 15–16 September 2026**  
   *Panel chair · Anmut & Bennett School of Public Policy, University of Cambridge*
