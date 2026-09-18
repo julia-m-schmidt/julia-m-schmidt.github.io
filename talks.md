@@ -17,7 +17,7 @@ permalink: /talks/
   *Two Faces of Data: Productivity and Markups in the Digital Age*
 
 - **[The Economics of Data](https://www.anmut.co.uk/data-econ-event/) — Cambridge, UK — 15–16 September 2026**  
-  *Panel chair · Anmut & Bennett School of Public Policy, University of Cambridge*
+  *Panel chair · Co-organized by Anmut, Stanford Digital Economy Lab & Bennett School of Public Policy, University of Cambridge*
 
 - **[EEA-ESEM 2026](https://www.eea-esem-congresses.org/) — Dublin, Ireland — 17–21 August 2026**  
   *Data, Software, and Credit: Bank Lending Constraints and Digital Investment in Europe*
