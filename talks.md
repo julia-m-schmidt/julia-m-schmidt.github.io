@@ -26,7 +26,7 @@ permalink: /talks/
   *Data, Software, and Credit: Bank Lending Constraints and Digital Investment in Europe*
 
 - **PhD Retreat, LEDa — Les Cévennes, France — 2–3 June 2026**  
-  *The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy*
+  *Two Faces of Data: Productivity and Markups in the Digital Age*
 
 - **Dauphine LEDa PhD Workshop — Paris, France — 18 May 2026**  
   *The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy*
