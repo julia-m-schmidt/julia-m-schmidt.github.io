@@ -9,10 +9,10 @@ permalink: /teaching/
 **Fall — Master Level – Introduction to MATLAB Programming (EN)**  
 *Université Paris Dauphine – PSL*
 
-**Fall — L2 – International Macroeconomics: Short and Medium Term (FR)**  
+**Fall — Undergraduate Level – International Macroeconomics: Short and Medium Term (FR)**  
 *Université Paris Dauphine – PSL*
 
-**Spring — L2 – Long-Term Macroeconomics (FR)**  
+**Spring — Undergraduate Level – Long-Term Macroeconomics (FR)**  
 *Université Paris Dauphine – PSL*
 
 ## 2025
