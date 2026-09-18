@@ -5,8 +5,6 @@ permalink: /research/
 description: "Research by Julia M. Schmidt on artificial intelligence, data assets, productivity, financial frictions and climate policy."
 ---
 
-## Working papers
-
 <article class="paper-entry" markdown="1">
 
 <p class="paper-status">Working paper · 2026</p>
@@ -26,9 +24,32 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 **Presented at**
 
 - International Workshop on AI in the Product, Factor and Financial Markets, Urbino, 18 September 2026.
-- [EEA-ESEM 2026](https://www.eea-esem-congresses.org/), 17-21 August 2026.
-- [24th ZEW Conference on the Economics of Information and Communication Technologies](https://www.zew.de/en/events-and-professional-training/detail/24th-zew-conference-on-the-economics-of-information-and-communication-technologies/4711?cHash=b82b4c9c3e69b066efacf110b083e6a6), 25-26 June 2026.
-- [3rd Global INTAN-Invest Conference](https://www.wipo.int/meetings/en/2026/intangible-assets-global-economy.html), 7-8 May 2026.
+- [EEA-ESEM 2026](https://www.eea-esem-congresses.org/), 17–21 August 2026.
+- [24th ZEW Conference on the Economics of Information and Communication Technologies](https://www.zew.de/en/events-and-professional-training/detail/24th-zew-conference-on-the-economics-of-information-and-communication-technologies/4711?cHash=b82b4c9c3e69b066efacf110b083e6a6), 25–26 June 2026.
+- [3rd Global INTAN-Invest Conference](https://www.wipo.int/meetings/en/2026/intangible-assets-global-economy.html), 7–8 May 2026.
+
+</div>
+
+</article>
+
+<article class="paper-entry" markdown="1">
+
+<p class="paper-status">Working paper · 2026</p>
+
+### The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy
+
+<p class="paper-authors">Solo-authored</p>
+
+<p class="paper-summary">We develop a dynamic general-equilibrium model in which carbon-intensive compute and unpriced household-generated data produce AI services. AI can raise emissions before delivering economic gains, while carbon pricing still cuts emissions at modest output cost. The welfare-maximizing carbon tax lies below the social cost of carbon, with market power explaining most of the gap and the data externality playing a smaller role.</p>
+
+<div class="presentations" markdown="1">
+
+**Presented at**
+
+- [7th World Congress of Environmental and Resource Economists (WCERE 2026)](https://wcere2026.org/index.php/programme/), Lisbon, 29 June–3 July 2026.
+- PhD Retreat, LEDa, Les Cévennes, 2–3 June 2026.
+- Dauphine LEDa PhD Workshop, 18 May 2026.
+- [UPF-CREI Macroeconomic Lunch](https://crei.cat/seminars/macroeconomics-breakfast/), UPF Barcelona, 26 November 2025.
 
 </div>
 
@@ -59,29 +80,6 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 </article>
 
-<article class="paper-entry" markdown="1">
-
-<p class="paper-status">Working paper · 2026</p>
-
-### The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy
-
-<p class="paper-authors">Solo-authored</p>
-
-<p class="paper-summary">We develop a dynamic general-equilibrium model in which carbon-intensive compute and unpriced household-generated data produce AI services. AI can raise emissions before delivering economic gains, while carbon pricing still cuts emissions at modest output cost. The welfare-maximizing carbon tax lies below the social cost of carbon, with market power explaining most of the gap and the data externality playing a smaller role.</p>
-
-<div class="presentations" markdown="1">
-
-**Presented at**
-
-- [7th World Congress of Environmental and Resource Economists (WCERE 2026)](https://wcere2026.org/index.php/programme/), Lisbon, 29 June-3 July 2026.
-- PhD Retreat, LEDa, Les Cévennes, 2-3 June 2026.
-- Dauphine LEDa PhD Workshop, 18 May 2026.
-- [UPF-CREI Macroeconomic Lunch](https://crei.cat/seminars/macroeconomics-breakfast/), UPF Barcelona, 26 November 2025.
-
-</div>
-
-</article>
-
 ## Policy work
 
 ### AI and data
@@ -106,5 +104,5 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 <ul class="publication-list">
   <li><strong>Schmidt, J.</strong> (2019), <a href="https://www.bertelsmann-stiftung.de/en/publications/publication/did/eu-cohesion-policy-a-suitable-tool-to-foster-innovation"><em>EU Cohesion Policy: A suitable tool to foster innovation?</em></a> Policy Brief, Bertelsmann Stiftung.</li>
   <li><strong>Kastrop, C., D. Ponattu, J. Schmidt and S. Schmidt</strong> (2019), <a href="https://www.g20-insights.org/policy_briefs/the-urban-rural-divide-and-regionally-inclusive-growth-in-the-digital-age/"><em>The Urban-Rural Divide and Regionally Inclusive Growth in the Digital Age</em></a>. G20 Insights Policy Brief.</li>
-  <li><strong>Kastrop, C., D. Ponattu and J. Schmidt</strong> (2019), <em>Inequality and the productivity slowdown: The growing gap between the most productive and the rest dampens social cohesion</em>. Global Solutions Journal, <a href="https://www.global-solutions-initiative.org/wp-content/uploads/2019/03/Global-Solutions-Journal-Issue-4.pdf">Issue 4, pp. 30-33</a>.</li>
+  <li><strong>Kastrop, C., D. Ponattu and J. Schmidt</strong> (2019), <em>Inequality and the productivity slowdown: The growing gap between the most productive and the rest dampens social cohesion</em>. Global Solutions Journal, <a href="https://www.global-solutions-initiative.org/wp-content/uploads/2019/03/Global-Solutions-Journal-Issue-4.pdf">Issue 4, pp. 30–33</a>.</li>
 </ul>
