@@ -8,12 +8,15 @@ permalink: /talks/
 - **Chips and Credit in Europe - AI-related Investment and Financial Frictions**
   EEA 2026 – In person – 17-21 August 2026
   [EEA-ESEM 2026](https://www.eea-esem-congresses.org/)
-- **AI, Computing Power and the Design of Carbon Policy**
-  WCERE 2026 - World Congress of Environmental and Resource Economists – In person – 29 June - 3rd July 2026  
-  [WCERE 2026](https://wcere2026.org/index.php/programme/)
+- **The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy**<br>
+  [7th World Congress of Environmental and Resource Economists (WCERE 2026)](https://wcere2026.org/index.php/programme/) – Lisbon, Portugal – In person – 29 June-3 July 2026
 - **Chips and Credit in Europe - AI-related Investment and Financial Frictions**
   24th ZEW Conference on the Economics of Information and Communication Technologies – In person – 25-26 June 2026  
   [24th ZEW Conference](https://www.zew.de/en/events-and-professional-training/detail/24th-zew-conference-on-the-economics-of-information-and-communication-technologies/4711?cHash=b82b4c9c3e69b066efacf110b083e6a6)
+- **The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy**<br>
+  PhD Retreat, LEDa, Les Cévennes – In person – 2-3 June 2026
+- **The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy**<br>
+  Dauphine LEDa PhD Workshop – In person – 18 May 2026
 - **Chips and Credit in Europe - AI-related Investment and Financial Frictions**
   3rd Global INTAN-Invest Conference – In person – 7–8 May 2026  
   Co-organized by Luiss Business School & the World Intellectual Property Organization (WIPO)

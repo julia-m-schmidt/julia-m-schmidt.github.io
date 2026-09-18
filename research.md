@@ -73,6 +73,9 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 **Presented at**
 
+- [7th World Congress of Environmental and Resource Economists (WCERE 2026)](https://wcere2026.org/index.php/programme/), Lisbon, 29 June-3 July 2026.
+- PhD Retreat, LEDa, Les Cévennes, 2-3 June 2026.
+- Dauphine LEDa PhD Workshop, 18 May 2026.
 - [UPF-CREI Macroeconomic Lunch](https://crei.cat/seminars/macroeconomics-breakfast/), UPF Barcelona, 26 November 2025.
 
 </div>
