@@ -5,8 +5,6 @@ permalink: /research/
 description: "Research by Julia M. Schmidt on artificial intelligence, data assets, productivity, financial frictions and climate policy."
 ---
 
-## Work in progress
-
 <article class="paper-entry" markdown="1">
 
 <p class="paper-status">Work in progress · 2026</p>
