@@ -5,6 +5,8 @@ permalink: /research/
 description: "Research by Julia M. Schmidt on artificial intelligence, data assets, productivity, financial frictions and climate policy."
 ---
 
+## Working papers
+
 <article class="paper-entry" markdown="1">
 
 <p class="paper-status">Working paper · 2026</p>
@@ -54,6 +56,8 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 </article>
 
+## Work in progress
+
 <article class="paper-entry" markdown="1">
 
 <p class="paper-status">Work in progress · 2026</p>
@@ -78,6 +82,13 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 </div>
 
 </article>
+
+## Published articles
+
+<ul class="publication-list">
+  <li><strong>Schmidt, J., G. Pilgrim and A. Mourougane</strong> (2026), “<a href="https://ideas.repec.org/a/bla/revinw/v72y2026i1ne70047.html">Mapping Labor Demand for Data-Intensive Work in the United Kingdom, Canada, and the United States</a>”, <em>Review of Income and Wealth</em>, 72(1), February.</li>
+  <li><strong>Mourougane, A., P. Knutsson, R. Pazos, J. Schmidt and F. Palermo</strong>, “<a href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=TWB0Z5IAAAAJ&citation_for_view=TWB0Z5IAAAAJ:Y0pCki6q_DkC">Tracking developments in global supply chains in real time</a>”, <em>Economic Systems Research</em>, 1–19.</li>
+</ul>
 
 ## Policy work
 
