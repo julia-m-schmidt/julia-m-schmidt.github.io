@@ -6,6 +6,9 @@ permalink: /talks/
 
 ## 2026
 
+- **Central banking economic modelling frontiers: trends, cycles and structural shifts — European Central Bank — Frankfurt am Main, Germany — 1–2 December 2026**  
+  *The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy*
+
 - **[PhD Presentation Workshop, LEDa, Université Paris Dauphine – PSL](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html) — Paris, France — 30 November 2026**  
   *The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy*
 
