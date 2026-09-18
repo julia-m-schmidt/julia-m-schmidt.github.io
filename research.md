@@ -5,11 +5,11 @@ permalink: /research/
 description: "Research by Julia M. Schmidt on artificial intelligence, data assets, productivity, financial frictions and climate policy."
 ---
 
-## Working papers
+## Work in progress
 
 <article class="paper-entry" markdown="1">
 
-<p class="paper-status">Working paper · 2026</p>
+<p class="paper-status">Work in progress · 2026</p>
 
 ### Data, Software, and Credit: Bank Lending Constraints and Digital Investment in Europe
 
@@ -36,7 +36,7 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <article class="paper-entry" markdown="1">
 
-<p class="paper-status">Working paper · 2026</p>
+<p class="paper-status">Work in progress · 2026</p>
 
 ### The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy
 
@@ -55,8 +55,6 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 </div>
 
 </article>
-
-## Work in progress
 
 <article class="paper-entry" markdown="1">
 
