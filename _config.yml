@@ -1,3 +1,17 @@
 theme: jekyll-theme-cayman
 title: "Julia M. Schmidt"
-description: "Economist | AI & Productivity | Climate Policy"
+description: "Julia M. Schmidt is a PhD candidate in Economics at Université Paris Dauphine - PSL and a former OECD economist researching AI, data assets, productivity, finance and climate policy."
+url: "https://julia-m-schmidt.github.io"
+baseurl: ""
+lang: "en"
+author:
+  name: "Julia M. Schmidt"
+  email: "julia.schmidt@dauphine.psl.eu"
+  links:
+    - "https://scholar.google.com/citations?hl=fr&user=TWB0Z5IAAAAJ"
+    - "https://www.linkedin.com/in/julia-m-schmidt-595932107/"
+    - "https://github.com/julia-m-schmidt"
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md

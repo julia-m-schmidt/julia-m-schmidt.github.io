@@ -4,8 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
-# 🎤 Talks and Conferences
-
 ## 2026
 - **Chips and Credit in Europe - AI-related Investment and Financial Frictions**
   EEA 2026 – In person – 17-21 August 2026

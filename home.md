@@ -2,14 +2,21 @@
 layout: default
 title: "Home"
 permalink: /
+description: "Julia M. Schmidt is a PhD candidate in Economics at Université Paris Dauphine - PSL and former OECD economist researching artificial intelligence, data assets, productivity, finance and climate policy."
 ---
 
 
-I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), working at the intersection of **macroeconomics**, **artificial intelligence**, and **the value of data assets**. My research focuses on how data and compute reshape productivity, emissions, and labor markets in the digital economy using macroeconomic models and computational methods (LLMs, Machine Learning). I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
+I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/). My research examines how **artificial intelligence, data, and compute** reshape firm productivity, emissions, and labour markets. I combine quantitative macroeconomic models with firm-level data and computational methods. I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
 
-**Visiting fellow**. From October 2025 to December 2025, I have been a visiting researcher hosted by [Prof. Isaac Baley](https://www.isaacbaley.com/) at UPF Barcelona. 
+From October to December 2025, I was a visiting researcher at Universitat Pompeu Fabra, hosted by [Prof. Isaac Baley](https://www.isaacbaley.com/).
 
-Before starting my PhD, I was an Economist/Data Scientist at the [OECD](https://www.oecd.org/en.html) Science, Technology and Innovation Directorate and at the Statistics and Data Directorate. There I applied NLP to measure digital skills and machine learning tools to nowcast trade and productivity indicators. I also led a team to design and implement the OECD AI Index, including database creation, data collection and strategic analysis. I have experience managing international projects in collaboration with governments, industry partners and NGOs. 
+Before starting my PhD, I was an Economist and Data Scientist at the [OECD](https://www.oecd.org/en.html), working in the Science, Technology and Innovation Directorate and the Statistics and Data Directorate. My work covered digital skills, data-intensive firms, and machine-learning approaches to nowcasting trade and productivity. I also led the development of the OECD AI Index.
+
+<div class="service-note" markdown="1">
+
+**Professional service.** Reviewer for *Economic Modelling*.
+
+</div>
 
 Feel free to [reach out](mailto:julia.schmidt@dauphine.psl.eu?subject=Collaboration%20Request) if you’d like to connect or collaborate.
 

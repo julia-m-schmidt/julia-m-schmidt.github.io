@@ -4,7 +4,7 @@ layout: default
 permalink: /teaching/
 ---
 
-## 📚 Teaching Experience
+## Teaching experience
 
 ### Fall 2025  
 **Master Level – Introduction to Matlab Programming (EN)**  

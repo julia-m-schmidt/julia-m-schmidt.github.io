@@ -4,82 +4,137 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="/assets/css/style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
-  <title>{{ page.title }} - Julia M. Schmidt</title>
-  <meta name="description" content="by Julia M. Schmidt, PhD Candidate at Université Paris-Dauphine–PSL and former OECD data strategist, Mentoring and professional development , ." />
 
-  <style>
-    /* TEMP FIX UNTIL CSS FILE IS UPDATED */
-    .social-icons {
-      display: flex;
-      gap: 12px;
-      margin: 0.5em 0 0.8em 0;
-      align-items: center;
-      flex-wrap: wrap;
-    }
+  {% assign meta_description = page.description | default: site.description %}
+  {% if page.url == "/" %}
+    {% assign meta_title = "Julia M. Schmidt | Economist, AI and Data" %}
+  {% else %}
+    {% capture meta_title %}{{ page.title }} | Julia M. Schmidt{% endcapture %}
+  {% endif %}
 
-    .social-icons img {
-      width: 28px !important;
-      height: 28px !important;
-      object-fit: contain;
-      transition: transform 0.2s ease-in-out;
-      display: block;
-    }
+  <title>{{ meta_title }}</title>
+  <meta name="description" content="{{ meta_description }}" />
+  <meta name="author" content="Julia M. Schmidt" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
-    .social-icons img:hover {
-      transform: scale(1.1);
-    }
-  </style>
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ meta_title }}" />
+  <meta property="og:description" content="{{ meta_description }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:site_name" content="Julia M. Schmidt" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ meta_title }}" />
+  <meta name="twitter:description" content="{{ meta_description }}" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&amp;family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&amp;display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+
+  {% if page.url == "/" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "{{ site.url }}/#julia-m-schmidt",
+    "name": "Julia M. Schmidt",
+    "givenName": "Julia",
+    "familyName": "Schmidt",
+    "url": "{{ site.url }}",
+    "image": "{{ '/assets/images/Photo_Schmidt_J.jpg' | absolute_url }}",
+    "jobTitle": "PhD Candidate in Economics",
+    "description": "Economist researching artificial intelligence, data assets, productivity, finance and climate policy.",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Université Paris Dauphine - PSL",
+      "url": "https://dauphine.psl.eu/"
+    },
+    "alumniOf": [
+      {
+        "@type": "Organization",
+        "name": "Organisation for Economic Co-operation and Development",
+        "alternateName": "OECD",
+        "url": "https://www.oecd.org/"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Sciences Po",
+        "url": "https://www.sciencespo.fr/"
+      }
+    ],
+    "sameAs": [
+      "https://scholar.google.com/citations?hl=fr&user=TWB0Z5IAAAAJ",
+      "https://www.linkedin.com/in/julia-m-schmidt-595932107/",
+      "https://github.com/julia-m-schmidt",
+      "https://blogs.worldbank.org/en/team/j/julia-schmidt",
+      "https://cepr.org/about/people/julia-schmidt-0"
+    ],
+    "knowsAbout": [
+      "Macroeconomics",
+      "Artificial intelligence",
+      "Data economics",
+      "Productivity",
+      "Climate policy"
+    ]
+  }
+  </script>
+  {% endif %}
 </head>
 <body>
-
-  <!-- Banner -->
-  <div class="banner-image">
-    <img src="/assets/images/header.png" alt="Abstract banner image" />
-  </div>
-
-  <!-- Header -->
-  <header>
-    <div class="container profile-header">
-      <div class="profile-info">
-        <img src="/assets/images/Photo_Schmidt_J.jpg" alt="Julia M. Schmidt" class="profile-photo" />
-
-        <div class="profile-text">
-          <h1>Julia M. Schmidt</h1>
-          <p>PhD Candidate – Université Paris-Dauphine–PSL</p>
-
-          <div class="social-icons">
-            <a href="https://scholar.google.com/citations?hl=fr&user=TWB0Z5IAAAAJ" target="_blank" aria-label="Google Scholar">
-              <img src="/assets/images/gscholar.png" alt="Google Scholar" />
-            </a>
-            <a href="https://www.linkedin.com/in/julia-m-schmidt-595932107/" target="_blank" aria-label="LinkedIn">
-              <img src="/assets/images/linkedin.png" alt="LinkedIn" />
-            </a>
-          </div>
-
-          <nav class="navbar">
-            <a href="/">Home</a>
-            <a href="/research/">Research</a>
-            <a href="/assets/docs/CV_SCHMIDT_J.pdf" target="_blank">CV</a>
-            <a href="/teaching/">Teaching</a>
-            <a href="/talks/">Talks</a>
-            <a href="/mentoring/">Mentoring</a>
-          </nav>
-        </div>
-      </div>
+  <header class="site-header">
+    <div class="site-shell header-inner">
+      <a class="site-name" href="{{ '/' | relative_url }}">Julia M. Schmidt</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/research/' | relative_url }}"{% if page.url == "/research/" %} aria-current="page"{% endif %}>Research</a>
+        <a href="{{ '/assets/docs/CV_SCHMIDT_J.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
+        <a href="{{ '/teaching/' | relative_url }}"{% if page.url == "/teaching/" %} aria-current="page"{% endif %}>Teaching</a>
+        <a href="{{ '/talks/' | relative_url }}"{% if page.url == "/talks/" %} aria-current="page"{% endif %}>Talks</a>
+        <a href="{{ '/mentoring/' | relative_url }}"{% if page.url == "/mentoring/" %} aria-current="page"{% endif %}>Mentoring</a>
+      </nav>
     </div>
   </header>
 
-  <!-- Main content -->
-  <main class="container main-content">
+  {% unless page.url == "/" %}
+  <div class="page-banner" aria-hidden="true">
+    <img src="{{ '/assets/images/header.png' | relative_url }}" alt="" />
+  </div>
+  {% endunless %}
+
+  <main class="site-shell main-content">
+    {% if page.url == "/" %}
+    <section class="home-identity" aria-labelledby="home-name">
+      <img src="{{ '/assets/images/Photo_Schmidt_J.jpg' | relative_url }}" alt="Portrait of Julia M. Schmidt" class="profile-photo" />
+      <div class="identity-copy">
+        <p class="eyebrow">PhD Candidate in Economics</p>
+        <h1 id="home-name">Julia M. Schmidt</h1>
+        <p class="affiliation">Université Paris Dauphine - PSL · Former OECD economist</p>
+        <div class="profile-links" aria-label="Professional profiles">
+          <a href="https://scholar.google.com/citations?hl=fr&amp;user=TWB0Z5IAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+          <a href="https://www.linkedin.com/in/julia-m-schmidt-595932107/" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://github.com/julia-m-schmidt" target="_blank" rel="noopener">GitHub</a>
+          <a href="mailto:julia.schmidt@dauphine.psl.eu">Email</a>
+        </div>
+      </div>
+    </section>
+    {% else %}
+    <header class="page-heading">
+      <h1>{{ page.title }}</h1>
+    </header>
+    {% endif %}
+
     {{ content }}
   </main>
 
-  <!-- Footer -->
-  <footer>
-    <p>&copy; 2025 Julia M. Schmidt</p>
+  <footer class="site-footer">
+    <div class="site-shell footer-inner">
+      <p>&copy; {{ 'now' | date: "%Y" }} Julia M. Schmidt</p>
+      <div class="footer-links">
+        <a href="https://scholar.google.com/citations?hl=fr&amp;user=TWB0Z5IAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://www.linkedin.com/in/julia-m-schmidt-595932107/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="mailto:julia.schmidt@dauphine.psl.eu">Email</a>
+      </div>
+    </div>
   </footer>
-
 </body>
 </html>
