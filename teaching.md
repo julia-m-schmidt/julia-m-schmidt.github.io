@@ -12,7 +12,7 @@ permalink: /teaching/
 **Fall — Undergraduate Level – International Macroeconomics: Short and Medium Term (FR)**  
 *Université Paris Dauphine – PSL*
 
-**Spring — Undergraduate Level – Long-Term Macroeconomics (FR)**  
+**Spring — Undergraduate Level – International Macroeconomics: Long-term (FR)**  
 *Université Paris Dauphine – PSL*
 
 ## 2025
