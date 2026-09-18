@@ -6,7 +6,7 @@ description: "Julia M. Schmidt is a PhD candidate in Economics at Université Pa
 ---
 
 
-I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/). My research examines how **artificial intelligence, data, and compute** reshape firm productivity, emissions, and labour markets. I combine quantitative macroeconomic models with firm-level data and computational methods. I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
+I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/). My research examines how **artificial intelligence, data, and compute** reshape firm productivity, firm dynamics, and emissions. I combine quantitative macroeconomic models with firm-level data and computational methods. I am supervised by [Prof. Lise Patureau](https://sites.google.com/view/lisepatureau/home?authuser=0).
 
 From October to December 2025, I was a visiting researcher at Universitat Pompeu Fabra, hosted by [Prof. Isaac Baley](https://www.isaacbaley.com/).
 
@@ -14,7 +14,7 @@ Before starting my PhD, I was an Economist and Data Scientist at the [OECD](http
 
 <div class="service-note" markdown="1">
 
-**Professional service.** Reviewer for *Economic Modelling*.
+**Professional service.** Reviewer for [*Economic Modelling*](https://www.sciencedirect.com/journal/economic-modelling).
 
 </div>
 
