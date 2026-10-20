@@ -6,6 +6,10 @@ permalink: /talks/
 
 ## 2026
 
+- **[11th Green Finance Research Advances](https://www.banque-france.fr/en/news/11th-green-finance-research-advances)**  
+  <span class="talk-meta">Banque de France, Paris, France — 8–9 December 2026</span>  
+  *The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy*
+
 - <span class="talk-event">Central banking economic modelling frontiers: trends, cycles and structural shifts</span>  
   <span class="talk-meta">European Central Bank, Frankfurt am Main, Germany — 1–2 December 2026</span>  
   *The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy*
