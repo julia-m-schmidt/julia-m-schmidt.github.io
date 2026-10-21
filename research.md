@@ -95,7 +95,7 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
   <li><strong>Schmidt, J., G. Pilgrim and A. Mourougane</strong> (2024), “<a href="https://doi.org/10.1787/f8d640cc-en">Towards a better understanding of data-intensive firms in the United Kingdom</a>”, <em>OECD Statistics Working Papers</em>, No. 2024/07, OECD Publishing, Paris.</li>
   <li><strong>Schmidt, J., G. Pilgrim and A. Mourougane</strong> (2023), “<a href="https://doi.org/10.1787/fa65d29e-en">What is the role of data in jobs in the United Kingdom, Canada, and the United States?: A natural language processing approach</a>”, <em>OECD Statistics Working Papers</em>, No. 2023/05, OECD Publishing, Paris.</li>
   <li><strong>Schmidt, J. and G. Zappalà</strong> (2021), <a href="https://blogs.worldbank.org/opendata/statistics-about-statistics-how-do-we-measure-statistical-performance"><em>Statistics about statistics: How do we measure statistical performance?</em></a> World Bank Data Blog.</li>
-  <li><strong>Misra, A. and J. Schmidt</strong> (2020), <a href="https://www.oecd.org/coronavirus/policy-responses/enhancing-trust-in-data-participatory-data-ecosystems-for-the-post-covid-society-17b0ca04/"><em>Enhancing Trust in Data: Participatory Data Ecosystems for the Post-Covid Society</em></a>. OECD Shaping the COVID-19 Recovery Working Paper.</li>
+  <li><strong>Misra, A. and J. Schmidt</strong> (2020), <a href="http://paris21.org/news-center/news/new-policy-brief-participatory-data-ecosystems-close-covid-19-data-trust-deficit"><em>Enhancing Trust in Data: Participatory Data Ecosystems for the Post-Covid Society</em></a>. OECD Shaping the COVID-19 Recovery Working Paper.</li>
 </ul>
 
 ### Nowcasting
