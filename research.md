@@ -40,6 +40,11 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <p class="paper-authors">Solo-authored</p>
 
+<div class="paper-links">
+  <a href="/assets/docs/AI_Climate_Draft-161126_JS.pdf" target="_blank" rel="noopener">Draft</a>
+</div>
+
+
 <p class="paper-summary">We develop a dynamic general-equilibrium model in which carbon-intensive compute and unpriced household-generated data produce AI services. AI can raise emissions before delivering economic gains, while carbon pricing still cuts emissions at modest output cost. The welfare-maximizing carbon tax lies below the social cost of carbon, with market power explaining most of the gap and the data externality playing a smaller role.</p>
 
 <div class="presentations" markdown="1">
