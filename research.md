@@ -17,7 +17,7 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 <p class="paper-award"><strong>Best Poster Award</strong> (Social Sciences), Dauphine Digital Days 2026, Université Paris Dauphine–PSL.</p>
 
 <div class="paper-links">
-  <a href="/assets/docs/AI_Climate_Draft_261126_Schmidt_J.pdf" target="_blank" rel="noopener">Draft</a>
+  <a href="/assets/docs/AI_Climate_261126_Schmidt_J.pdf" target="_blank" rel="noopener">Draft</a>
   <a href="/assets/docs/P2_AI_Climate_SchmidtJ.pdf" target="_blank" rel="noopener">Slides</a>
 </div>
 
