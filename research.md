@@ -1,3 +1,4 @@
+
 ---
 title: Research
 layout: default
@@ -5,56 +6,31 @@ permalink: /research/
 description: "Research by Julia M. Schmidt on artificial intelligence, data assets, productivity, financial frictions and climate policy."
 ---
 
-<article class="paper-entry" markdown="1">
-
-<p class="paper-status">Work in progress · 2026</p>
-
-### Data, Software, and Credit: Bank Lending Constraints and Digital Investment in Europe
-
-<p class="paper-authors">With <a href="https://sites.google.com/view/lisepatureau/">Lise Patureau</a>, <a href="https://sites.google.com/site/fabientripier/home">Fabien Tripier</a>, Marine Charlotte André and Julie Delanote</p>
-
-<div class="paper-links">
-  <a href="/assets/docs/P1_AI_Firm_Finance_SchmidtJ.pdf" target="_blank" rel="noopener">Slides</a>
-</div>
-
-<p class="paper-summary">Using linked EIBIS, Orbis and BankFocus data for European firms, we study how financing conditions shape investment in software and databases and the associated productivity gains. Data-related investment is associated with higher labour productivity and TFPR, while bank credit constraints bind more clearly for tangible investment.</p>
-
-<div class="presentations" markdown="1">
-
-**Presented at**
-
-- International Workshop on AI in the Product, Factor and Financial Markets, Urbino, 18 September 2026.
-- [EEA-ESEM 2026](https://www.eea-esem-congresses.org/), 17–21 August 2026.
-- [24th ZEW Conference on the Economics of Information and Communication Technologies](https://www.zew.de/en/events-and-professional-training/detail/24th-zew-conference-on-the-economics-of-information-and-communication-technologies/4711?cHash=b82b4c9c3e69b066efacf110b083e6a6), 25–26 June 2026.
-- [3rd Global INTAN-Invest Conference](https://www.wipo.int/meetings/en/2026/intangible-assets-global-economy.html), 7–8 May 2026.
-
-</div>
-
-</article>
+## Working papers and research in progress
 
 <article class="paper-entry" markdown="1">
 
 <p class="paper-status">Work in progress · 2026</p>
 
-### The Carbon Cost of Compute: AI, Data Externalities, and Climate Policy
+### The Carbon Cost of Computing: AI, Data Externalities, and Climate Policy
 
 <p class="paper-authors">Solo-authored</p>
 
-<div class="paper-links">
-  <a href="/assets/docs/AI_Climate_Draft_261126_Schmidt_J.pdf" target="_blank" rel="noopener">Draft</a>
-</div>
+<p class="paper-award"><strong>Best Poster Award</strong> (Social Sciences), Dauphine Digital Days 2026, Université Paris Dauphine–PSL.</p>
 
 <div class="paper-links">
+  <a href="/assets/docs/AI_Climate_Draft_261126_Schmidt_J.pdf" target="_blank" rel="noopener">Draft</a>
   <a href="/assets/docs/P2_AI_Climate_SchmidtJ.pdf" target="_blank" rel="noopener">Slides</a>
 </div>
 
-<p class="paper-summary">We develop a dynamic general-equilibrium model in which carbon-intensive compute and unpriced household-generated data produce AI services. AI raises emissions and the social cost of carbon. Yet the welfare-maximizing carbon tax lies substantially below the social cost of carbon because market power and uncompensated household data already distort AI production. Combining carbon pricing with policies addressing these distortions yields substantially higher welfare gains.</p>
-
+<p class="paper-summary">We develop a dynamic general-equilibrium model in which AI services rely on carbon-intensive computing and unpriced household-generated data. AI adoption increases emissions and the social cost of carbon, but existing distortions in AI production fundamentally change optimal climate policy. In the presence of market power and uncompensated data provision, the welfare-maximizing carbon tax lies substantially below the Pigouvian benchmark. Coordinating carbon pricing with policies addressing AI market power and data externalities delivers substantial welfare gains.</p>
 
 <div class="presentations" markdown="1">
 
-**Presented at**
+**Selected presentations**
 
+- [Green Finance Research Advances Conference 2026](https://green-finance-research-advances-2026.org/), Banque de France, Paris, 8 December 2026 (forthcoming).
+- [Central Banking Economic Modelling Frontiers: Trends, Cycles and Structural Shifts](https://www.ecb.europa.eu/press/conferences/html/20261201_cb_econ_model_frontiers.en.html), European Central Bank, Frankfurt, 2 December 2026 (forthcoming).
 - [7th World Congress of Environmental and Resource Economists (WCERE 2026)](https://wcere2026.org/index.php/programme/), Lisbon, 29 June–3 July 2026.
 - Dauphine LEDa PhD Workshop, 18 May 2026.
 - [UPF-CREI Macroeconomic Lunch](https://crei.cat/seminars/macroeconomics-breakfast/), UPF Barcelona, 26 November 2025.
@@ -79,10 +55,37 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <div class="presentations" markdown="1">
 
-**Presented at**
+**Selected presentations**
 
 - International Workshop on AI in the Product, Factor and Financial Markets, Urbino, 19 September 2026.
 - PSL Paris Dauphine PhD Retreat, Cévennes, 2026.
+
+</div>
+
+</article>
+
+<article class="paper-entry" markdown="1">
+
+<p class="paper-status">Work in progress · 2026</p>
+
+### Data, Software, and Credit: Bank Lending Constraints and Digital Investment in Europe
+
+<p class="paper-authors">With <a href="https://sites.google.com/view/lisepatureau/">Lise Patureau</a>, <a href="https://sites.google.com/site/fabientripier/home">Fabien Tripier</a>, Marine Charlotte André and Julie Delanote</p>
+
+<div class="paper-links">
+  <a href="/assets/docs/P1_AI_Firm_Finance_SchmidtJ.pdf" target="_blank" rel="noopener">Slides</a>
+</div>
+
+<p class="paper-summary">Using linked EIBIS, Orbis and BankFocus data for European firms, we study how financing conditions shape investment in software and databases and the associated productivity gains. Data-related investment is associated with higher labour productivity and TFPR, while bank credit constraints bind more clearly for tangible investment.</p>
+
+<div class="presentations" markdown="1">
+
+**Selected presentations**
+
+- International Workshop on AI in the Product, Factor and Financial Markets, Urbino, 18 September 2026.
+- [EEA-ESEM 2026](https://www.eea-esem-congresses.org/), 17–21 August 2026.
+- [24th ZEW Conference on the Economics of Information and Communication Technologies](https://www.zew.de/en/events-and-professional-training/detail/24th-zew-conference-on-the-economics-of-information-and-communication-technologies/4711?cHash=b82b4c9c3e69b066efacf110b083e6a6), 25–26 June 2026.
+- [3rd Global INTAN-Invest Conference](https://www.wipo.int/meetings/en/2026/intangible-assets-global-economy.html), 7–8 May 2026.
 
 </div>
 
