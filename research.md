@@ -25,7 +25,7 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <div class="presentations" markdown="1">
 
-**Presented at / Forthcoming**
+**Presented at**
 
 - [Green Finance Research Advances Conference 2026](https://www.banque-france.fr/en/events/green-finance-research-advances-2026), Banque de France, Paris, 8 December 2026 (forthcoming).
 - [Central Banking Economic Modelling Frontiers: Trends, Cycles and Structural Shifts](https://www.ecb.europa.eu/press/conferences/html/20261201_cb_econ_model_frontiers.en.html), European Central Bank, Frankfurt, 2 December 2026 (forthcoming).
