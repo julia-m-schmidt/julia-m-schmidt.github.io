@@ -6,9 +6,9 @@ permalink: /research/
 description: "Research by Julia M. Schmidt on artificial intelligence, data assets, productivity, financial frictions and climate policy."
 ---
 
-## Working papers and research in progress
-
 <article class="paper-entry" markdown="1">
+
+<p class="paper-status">Work in progress · 2026</p>
 
 ### The Carbon Cost of Computing: AI, Data Externalities, and Climate Policy
 
@@ -25,9 +25,9 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <div class="presentations" markdown="1">
 
-**Selected presentations**
+**Presented at / Forthcoming**
 
-- [Green Finance Research Advances Conference 2026](https://green-finance-research-advances-2026.org/), Banque de France, Paris, 8 December 2026 (forthcoming).
+- [Green Finance Research Advances Conference 2026](https://www.banque-france.fr/en/events/green-finance-research-advances-2026), Banque de France, Paris, 8 December 2026 (forthcoming).
 - [Central Banking Economic Modelling Frontiers: Trends, Cycles and Structural Shifts](https://www.ecb.europa.eu/press/conferences/html/20261201_cb_econ_model_frontiers.en.html), European Central Bank, Frankfurt, 2 December 2026 (forthcoming).
 - [7th World Congress of Environmental and Resource Economists (WCERE 2026)](https://wcere2026.org/index.php/programme/), Lisbon, 29 June–3 July 2026.
 - Dauphine LEDa PhD Workshop, 18 May 2026.
@@ -53,7 +53,7 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <div class="presentations" markdown="1">
 
-**Selected presentations**
+**Presented at**
 
 - International Workshop on AI in the Product, Factor and Financial Markets, Urbino, 19 September 2026.
 - PSL Paris Dauphine PhD Retreat, Cévennes, 2026.
@@ -78,7 +78,7 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <div class="presentations" markdown="1">
 
-**Selected presentations**
+**Presented at**
 
 - International Workshop on AI in the Product, Factor and Financial Markets, Urbino, 18 September 2026.
 - [EEA-ESEM 2026](https://www.eea-esem-congresses.org/), 17–21 August 2026.
@@ -89,12 +89,16 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 </article>
 
+---
+
 ## Published articles
 
 <ul class="publication-list">
   <li><strong>Schmidt, J., G. Pilgrim and A. Mourougane</strong> (2026), “<a href="https://ideas.repec.org/a/bla/revinw/v72y2026i1ne70047.html">Mapping Labor Demand for Data-Intensive Work in the United Kingdom, Canada, and the United States</a>”, <em>Review of Income and Wealth</em>, 72(1), February.</li>
   <li><strong>Mourougane, A., P. Knutsson, R. Pazos, J. Schmidt and F. Palermo</strong>, “<a href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=TWB0Z5IAAAAJ&citation_for_view=TWB0Z5IAAAAJ:Y0pCki6q_DkC">Tracking developments in global supply chains in real time</a>”, <em>Economic Systems Research</em>, 1–19.</li>
 </ul>
+
+---
 
 ## Policy work
 
