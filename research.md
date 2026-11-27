@@ -10,8 +10,6 @@ description: "Research by Julia M. Schmidt on artificial intelligence, data asse
 
 <article class="paper-entry" markdown="1">
 
-<p class="paper-status">Work in progress · 2026</p>
-
 ### The Carbon Cost of Computing: AI, Data Externalities, and Climate Policy
 
 <p class="paper-authors">Solo-authored</p>
